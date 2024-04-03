@@ -3,6 +3,11 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+    color: #E9E9E9;
+    font-size: 0.8rem;
+}
+
 input {
     width: 95%;
     height: 22px;
@@ -11,11 +16,6 @@ input {
     border-radius: 5px;
     border: 0;
     margin: 10px;
-}
-
-a {
-    color: #E9E9E9;
-    font-size: 0.8rem;
 }
 
 input:focus {
